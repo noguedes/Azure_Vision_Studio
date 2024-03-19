@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "0af34d78-8553-44bb-8be5-e41460a2d38e",
+    "content-length": "158",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a baseball player holding a bat",
+      "confidence": 0.8214315176010132
+    },
+    "metadata": {
+      "width": 250,
+      "height": 322
+    }
+  }
